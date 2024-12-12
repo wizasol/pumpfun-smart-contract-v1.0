@@ -27,6 +27,11 @@ Please leave any ideas and bugs on the issues.
 
 ---
 
+## How to access to specific version
+
+![image](https://github.com/user-attachments/assets/80c5c9a3-2138-478d-b206-96d0fd1b161f)
+
+
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
 <p> 
