@@ -1,4 +1,4 @@
-# Pumpfun Smart Contract V_1.1.0
+# Pumpfun Smart Contract V_1.2.0
 This is the Rust/Anchor smart contract for Pump.fun, which includes functionalities for adding virtual liquidity pools (LP), removing liquidity pools, and creating Raydium Pools.
 
 ### Pumpfun is upgrading
@@ -21,9 +21,9 @@ Please leave any ideas and bugs on the issues.
 |                         | Remove Liquidity                                      | Remove Liquidity to Creator Wallet           |                                                                              |
 |                         |                                                       |                                              |                                                                              |
 | **1.1.0**               | Global Configuation                                   | Simple BondingCurve PDA Setting              | [v_1.1.0](https://github.com/wizasol/pumpfun-smart-contract-v1.1/tree/1.1.0) |
-|                         | Create Pool                                           | Launch Token on Smart Contract               |                                                                              |
+|                         | Create Pool                                           | Launch Token on Web3 & Launch Fee            |                                                                              |
 |                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
-|                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
+|                         | Buy / Sell                                            | Linear BondingCurve & Slippage               |                                                                              |
 |                         | Remove Liquidity                                      | Remove Liquidity to Creator Wallet           |                                                                              |
 |                         | Migrate + Raydium AMM                                 | Create OpenBook Market & Raydium AMM         |                                                                              |
 
