@@ -14,12 +14,12 @@ Please leave any ideas and bugs on the issues.
 
 | **Version**             | **Features**                                          | **Description**                              | **Repo Link**                                                                |
 |-------------------------|-------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
-| **1.0.0**               | Global Configuation                                   | Simple BondingCurve PDA Setting              | [Repo](https://github.com/wizasol/Ether-Volume-Bot-v1)                       |
+| **1.0.0**               | Global Configuation                                   | Simple BondingCurve PDA Setting              | [v_1.0.0](https://github.com/wizasol/pumpfun-smart-contract-v1.1/tree/1.0.0) |
 |                         | Create Pool                                           | Launch Token on Web3                         |                                                                              |
 |                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
 |                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
 |                         | Remove Liquidity                                      | Remove Liquidity to Creator Wallet           |                                                                              |
-| **1.1.0**               | Create Pool                                           | Launch Token on Smart Contract               |                                                                              |
+| **1.1.0**               | Create Pool                                           | Launch Token on Smart Contract               | [v_1.1.0](https://github.com/wizasol/pumpfun-smart-contract-v1.1/tree/1.1.0) |
 |                         | Migrate + Raydium AMM                                 | Create OpenBook Market & Raydium AMM         |                                                                              |
 
 
