@@ -1,6 +1,40 @@
 # Pumpfun Smart Contract with Raydium Integration
 This is the Rust/Anchor smart contract for Pump.fun, which includes functionalities for adding virtual liquidity pools (LP), removing liquidity pools, and creating Raydium Pools.
 
+### Pumpfun is upgrading
+
+We are upgrading Pump.fun.
+Please leave any ideas and bugs on the issues.
+
+---
+
+## 📋 **Pump.Fun V1 Overview**  
+
+<div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px;">
+
+| **Version**             | **Features**                                          | **Description**                              | **Repo Link**                                                                |
+|-------------------------|-------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
+| **1.0.0**               | Global Configuation                                   | Simple BondingCurve PDA Setting              | [Repo](https://github.com/wizasol/Ether-Volume-Bot-v1)                       |
+|                         | Create Pool                                           | Launch Token on Web3                         |                                                                              |
+|                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
+|                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
+|                         | Remove Liquidity                                      | Remove Liquidity to Creator Wallet           |                                                                              |
+| **1.1.0**               | Create Pool                                           | Launch Token on Smart Contract               |                                                                              |
+|                         | Migrate + Raydium AMM                                 | Create OpenBook Market & Raydium AMM         |                                                                              |
+
+
+</div>
+
+---
+
+
+- Initialize
+- Create Pool
+- Add Liquidity
+- Buy / Sell
+- Remove Liquidity
+- Migrate with Raydium Amm
+
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
 <p> 
