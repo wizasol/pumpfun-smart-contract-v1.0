@@ -1,4 +1,4 @@
-# Pumpfun Smart Contract with Raydium Integration
+# Pumpfun Smart Contract V_1
 This is the Rust/Anchor smart contract for Pump.fun, which includes functionalities for adding virtual liquidity pools (LP), removing liquidity pools, and creating Raydium Pools.
 
 ### Pumpfun is upgrading
