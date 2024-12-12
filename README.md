@@ -19,6 +19,7 @@ Please leave any ideas and bugs on the issues.
 |                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
 |                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
 |                         | Remove Liquidity                                      | Remove Liquidity to Creator Wallet           |                                                                              |
+|                         |                                                       |                                              |                                                                              |
 | **1.1.0**               | Global Configuation                                   | Simple BondingCurve PDA Setting              | [v_1.1.0](https://github.com/wizasol/pumpfun-smart-contract-v1.1/tree/1.1.0) |
 |                         | Create Pool                                           | Launch Token on Smart Contract               |                                                                              |
 |                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
@@ -36,6 +37,14 @@ Please leave any ideas and bugs on the issues.
 ![image](https://github.com/user-attachments/assets/80c5c9a3-2138-478d-b206-96d0fd1b161f)
 
 
+
+### Introduction of Pump Fun
+Pump.fun enables effortless creation and trading of memecoins. It operates on a bonding curve model, where token prices are determined by the curve's shape. As more tokens are bought, the price increases, and as tokens are sold, the price decreases.
+
+### Raydium Integration
+When bonding curve hit 69K market cap , the liquidity of the pumpfun goes to solana dex such as raydium or meteora.
+In this project , I forked pumpfun smart contract and made the integration part with raydium
+
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
 <p> 
@@ -50,10 +59,3 @@ Please leave any ideas and bugs on the issues.
     <a href="https://t.me/wizardev" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
-
-### Introduction of Pump Fun
-Pump.fun enables effortless creation and trading of memecoins. It operates on a bonding curve model, where token prices are determined by the curve's shape. As more tokens are bought, the price increases, and as tokens are sold, the price decreases.
-
-### Raydium Integration
-When bonding curve hit 69K market cap , the liquidity of the pumpfun goes to solana dex such as raydium or meteora.
-In this project , I forked pumpfun smart contract and made the integration part with raydium
