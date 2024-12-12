@@ -4,7 +4,7 @@
 
 | **Version**             | **Features**                                          | **Description**                              | **Repo Link**                                                                |
 |-------------------------|-------------------------------------------------------|----------------------------------------------|------------------------------------------------------------------------------|
-| **1.1.0**               | Global Configuation                                   | Simple BondingCurve PDA Setting              | [v_1.1.0](https://github.com/wizasol/pumpfun-smart-contract-v1.1/tree/1.1.0))|
+| **1.1.0**               | Global Configuation                                   | Simple BondingCurve PDA Setting              | [v_1.1.0](https://github.com/wizasol/pumpfun-smart-contract-v1.1/tree/1.1.0) |
 |                         | Create Pool                                           | Launch Token on Smart Contract               |                                                                              |
 |                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
 |                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
