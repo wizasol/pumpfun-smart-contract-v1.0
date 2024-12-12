@@ -1,0 +1,2 @@
+pub const INITIAL_SOL_AMOUNT: u64 = 30;
+pub const INITIAL_TOKEN_AMOUNT: u64 = 1000000000;
