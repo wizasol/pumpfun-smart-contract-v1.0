@@ -19,7 +19,11 @@ Please leave any ideas and bugs on the issues.
 |                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
 |                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
 |                         | Remove Liquidity                                      | Remove Liquidity to Creator Wallet           |                                                                              |
-| **1.1.0**               | Create Pool                                           | Launch Token on Smart Contract               | [v_1.1.0](https://github.com/wizasol/pumpfun-smart-contract-v1.1/tree/1.1.0) |
+| **1.1.0**               | Global Configuation                                   | Simple BondingCurve PDA Setting              | [v_1.1.0](https://github.com/wizasol/pumpfun-smart-contract-v1.1/tree/1.1.0) |
+|                         | Create Pool                                           | Launch Token on Smart Contract               |                                                                              |
+|                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
+|                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
+|                         | Remove Liquidity                                      | Remove Liquidity to Creator Wallet           |                                                                              |
 |                         | Migrate + Raydium AMM                                 | Create OpenBook Market & Raydium AMM         |                                                                              |
 
 
