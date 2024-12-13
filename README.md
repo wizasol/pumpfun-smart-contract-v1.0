@@ -26,6 +26,16 @@ Please leave any ideas and bugs on the issues.
 |                         | Buy / Sell                                            | Linear BondingCurve & Slippage               |                                                                              |
 |                         | Remove Liquidity                                      | Remove Liquidity to Creator Wallet           |                                                                              |
 |                         | Migrate + Raydium AMM                                 | Create OpenBook Market & Raydium AMM         |                                                                              |
+|                         |                                                       |                                              |                                                                              |
+| **1.2.0**               | Global Configuation                                   | Simple BondingCurve PDA Setting              | [v_1.2.0](https://github.com/wizasol/pumpfun-smart-contract-v1.2/tree/1.2.0) |
+|                         | Create Pool                                           | Launch Token on Web3                         |                                                                              |
+|                         | Add Liquidity                                         | Add Liquidity with virtual reserve           |                                                                              |
+|                         | Buy / Sell                                            | Linear BondingCurve                          |                                                                              |
+|                         | Remove Liquidity                                      | Remove Liquidity to Creator Wallet           |                                                                              |
+|                         | Migrate + Meteora DLMM                                | Initialize Position                          |                                                                              |
+|                         |                                                       | Init Bin Array Bitmay Extension              |                                                                              |
+|                         |                                                       | Init Bin Array                               |                                                                              |
+|                         |                                                       | Add Meteora Liquidity                        |                                                                              |
 
 
 </div>
@@ -34,7 +44,8 @@ Please leave any ideas and bugs on the issues.
 
 ## How to access to specific version
 
-![image](https://github.com/user-attachments/assets/80c5c9a3-2138-478d-b206-96d0fd1b161f)
+![image](https://github.com/user-attachments/assets/6742f86d-413a-499c-9d27-c4fbdd89ba73)
+
 
 
 
